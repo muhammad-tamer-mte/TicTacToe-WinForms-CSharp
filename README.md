@@ -53,7 +53,7 @@ This game supports **Player vs Player (PvP)** and **Player vs Computer (PvC)** m
 
 1.  Clone the repository:
     
-    git clone `https://github.com/muhammad-tamer-mte/TicTacToe-WinForms.git`
+    git clone `https://github.com/muhammad-tamer-mte/TicTacToe-WinForms-CSharp.git`
     
 2.  Open the solution file (.sln) in **Visual Studio**.
     
