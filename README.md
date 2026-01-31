@@ -55,7 +55,7 @@ This game supports **Player vs Player (PvP)** and **Player vs Computer (PvC)** m
     
     git clone `https://github.com/muhammad-tamer-mte/TicTacToe-WinForms.git`
     
-2.  Open the solution file in **Visual Studio**.
+2.  Open the solution file (.sln) in **Visual Studio**.
     
 3.  Build and run the project.
     
@@ -63,8 +63,9 @@ This game supports **Player vs Player (PvP)** and **Player vs Computer (PvC)** m
 * * *
 
 ## ⚙️ Project Structure
-Directory structure:
-└── muhammad-tamer-mte-tictactoe-winforms-csharp/
+
+TicTacToe-WinForms-CSharp/ 
+
     ├── README.md
     ├── App.config
     ├── frmGame.cs
@@ -110,7 +111,7 @@ Directory structure:
 6.  Use **Reset** to replay or **Back** to return to the menu.
     
 ## 📸 Video
-[Watch the gameplay video](Videos/gameplay.wmv)
+[![Watch the gameplay video](Screenshots/v1-2.png)](Videos/gameplay.wmv)
 
 * * *
 
