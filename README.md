@@ -111,7 +111,10 @@ TicTacToe-WinForms-CSharp/
 6.  Use **Reset** to replay or **Back** to return to the menu.
     
 ## 📸 Video
-[![Watch the gameplay video](Screenshots/v1-2.png)](Videos/gameplay.wmv)
+<video width="320" height="240" controls>
+  <source src="Videos/gameplay.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 * * *
 
