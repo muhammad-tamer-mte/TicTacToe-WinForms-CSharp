@@ -40,12 +40,12 @@ This game supports **Player vs Player (PvP)** and **Player vs Computer (PvC)** m
 ## 📸 Screenshots
 
 ### Initial Version
-![](screenshots/initial/main-menu.png)
+![](Screenshots/Initial-Version.png)
 
 ### Version 1.0
 | Main Menu | Gameplay |
 | --- | --- |
-| ![](screenshots/v1/main-menu.png) | ![](screenshots/v1/gameplay.png) |
+| ![](Screenshots/v1-1.png) | ![](Screenshots/v1-2.png) |
 
 * * *
 
@@ -53,7 +53,7 @@ This game supports **Player vs Player (PvP)** and **Player vs Computer (PvC)** m
 
 1.  Clone the repository:
     
-    `git clone https://github.com/your-username/TicTacToe-WinForms.git`
+    git clone `https://github.com/muhammad-tamer-mte/TicTacToe-WinForms.git`
     
 2.  Open the solution file in **Visual Studio**.
     
@@ -63,17 +63,36 @@ This game supports **Player vs Player (PvP)** and **Player vs Computer (PvC)** m
 * * *
 
 ## ⚙️ Project Structure
-
-CSharp/  
-└── WinForms/  
-  └── TicTacToe/  
-    ├── frmStart.cs # Main menu and game setup  
-    ├── frmGame.cs # Game logic and gameplay UI  
-    ├── Program.cs # Entry point  
-    ├── TicTacToe.sln # Visual Studio solution file  
-    └── Properties/  
-      └── Resources.resx # X and O images
-
+Directory structure:
+└── muhammad-tamer-mte-tictactoe-winforms-csharp/
+    ├── README.md
+    ├── App.config
+    ├── frmGame.cs
+    ├── frmGame.Designer.cs
+    ├── frmGame.resx
+    ├── frmStart.cs
+    ├── frmStart.Designer.cs
+    ├── frmStart.resx
+    ├── Program.cs
+    ├── Tic-Tac-Toe Game.csproj
+    ├── Tic-Tac-Toe Game.sln
+    ├── Properties/
+    │   ├── AssemblyInfo.cs
+    │   ├── Resources.Designer.cs
+    │   ├── Resources.resx
+    │   ├── Settings.Designer.cs
+    │   └── Settings.settings
+    ├── Resources/
+    ├── Screenshots/
+    └── Videos/
+        └── gameplay.wmv
+		
+**Notes:**  
+- `frmGame.cs` and `frmStart.cs` are the main forms controlling the game logic and UI.  
+- `Properties/` contains auto-generated files for project settings and resources.  
+- `Resources/` include images, icons, or other assets that game uses.  
+- `Screenshots/` images of the game.  
+- `Videos/` contains gameplay videos.
 * * *
 
 ## 📝 How to Play
@@ -90,6 +109,8 @@ CSharp/
     
 6.  Use **Reset** to replay or **Back** to return to the menu.
     
+## 📸 Video
+[Watch the gameplay video](Videos/gameplay.wmv)
 
 * * *
 
